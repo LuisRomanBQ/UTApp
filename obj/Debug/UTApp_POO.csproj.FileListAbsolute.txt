@@ -1,0 +1,41 @@
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\bin\Debug\UTApp_POO.exe.config
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\bin\Debug\UTApp_POO.exe
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\bin\Debug\UTApp_POO.pdb
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.csproj.AssemblyReference.cache
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.iniciarSesion.resources
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.Bienvenida.resources
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.Properties.Resources.resources
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.registroDocente.resources
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.registroEstudiante.resources
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.tipoUsuario.resources
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.csproj.GenerateResource.cache
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.csproj.CoreCompileInputs.cache
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.exe
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.pdb
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.pantallaEstudiante.resources
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.configEstudiante.resources
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.editarNombreEstudiante.resources
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.editarGrupoEstudiante.resources
+C:\Users\paul_\OneDrive\Desktop\escuela\Programación Orientada a Objetos\Proyecto_UTApp\UTApp_POO\obj\Debug\UTApp_POO.cambiarContraseña.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.exe.config
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.iniciarSesion.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.Bienvenida.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.pantallaEstudiante.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.configEstudiante.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.editarNombreEstudiante.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.editarGrupoEstudiante.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.cambiarContraseña.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.Properties.Resources.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.registroDocente.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.registroEstudiante.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.tipoUsuario.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.csproj.GenerateResource.cache
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.exe
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.pdb
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\bin\Debug\UTApp_POO.exe.config
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\bin\Debug\UTApp_POO.exe
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\bin\Debug\UTApp_POO.pdb
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.pantallaDocente.resources
+C:\Users\roman\Downloads\Alumnos-20250817T194127Z-1-001\Alumnos\obj\Debug\UTApp_POO.MisAsignaciones.resources

@@ -33,6 +33,8 @@
             this.pbSettings = new System.Windows.Forms.PictureBox();
             this.pbLogOut = new System.Windows.Forms.PictureBox();
             this.Logo = new System.Windows.Forms.PictureBox();
+            this.btnGrupos = new System.Windows.Forms.Button();
+            this.btnAsignaciones = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbSettings)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbLogOut)).BeginInit();
@@ -59,6 +61,7 @@
             this.pbSettings.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbSettings.TabIndex = 47;
             this.pbSettings.TabStop = false;
+            this.pbSettings.Click += new System.EventHandler(this.pbSettings_Click);
             // 
             // pbLogOut
             // 
@@ -83,11 +86,39 @@
             this.Logo.TabIndex = 1;
             this.Logo.TabStop = false;
             // 
+            // btnGrupos
+            // 
+            this.btnGrupos.BackColor = System.Drawing.Color.SeaGreen;
+            this.btnGrupos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnGrupos.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGrupos.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnGrupos.Location = new System.Drawing.Point(55, 305);
+            this.btnGrupos.Name = "btnGrupos";
+            this.btnGrupos.Size = new System.Drawing.Size(225, 50);
+            this.btnGrupos.TabIndex = 47;
+            this.btnGrupos.Text = "Mis Grupos";
+            this.btnGrupos.UseVisualStyleBackColor = false;
+            // 
+            // btnAsignaciones
+            // 
+            this.btnAsignaciones.BackColor = System.Drawing.Color.SeaGreen;
+            this.btnAsignaciones.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAsignaciones.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAsignaciones.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnAsignaciones.Location = new System.Drawing.Point(55, 207);
+            this.btnAsignaciones.Name = "btnAsignaciones";
+            this.btnAsignaciones.Size = new System.Drawing.Size(225, 50);
+            this.btnAsignaciones.TabIndex = 45;
+            this.btnAsignaciones.Text = "Mis asignaciones";
+            this.btnAsignaciones.UseVisualStyleBackColor = false;
+            // 
             // pantallaDocente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(334, 611);
+            this.Controls.Add(this.btnGrupos);
+            this.Controls.Add(this.btnAsignaciones);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
@@ -108,5 +139,7 @@
         private System.Windows.Forms.PictureBox pbSettings;
         private System.Windows.Forms.PictureBox pbLogOut;
         private System.Windows.Forms.PictureBox Logo;
+        private System.Windows.Forms.Button btnGrupos;
+        private System.Windows.Forms.Button btnAsignaciones;
     }
 }

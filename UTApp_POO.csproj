@@ -93,11 +93,11 @@
     <Compile Include="Forms\bienvenida.Designer.cs">
       <DependentUpon>bienvenida.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\MisAsignaciones.cs">
+    <Compile Include="Forms\misAsignaciones.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\MisAsignaciones.Designer.cs">
-      <DependentUpon>MisAsignaciones.cs</DependentUpon>
+    <Compile Include="Forms\misAsignaciones.Designer.cs">
+      <DependentUpon>misAsignaciones.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\pantallaDocente.cs">
       <SubType>Form</SubType>
@@ -161,8 +161,8 @@
     <EmbeddedResource Include="Forms\bienvenida.resx">
       <DependentUpon>bienvenida.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\MisAsignaciones.resx">
-      <DependentUpon>MisAsignaciones.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\misAsignaciones.resx">
+      <DependentUpon>misAsignaciones.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\pantallaDocente.resx">
       <DependentUpon>pantallaDocente.cs</DependentUpon>

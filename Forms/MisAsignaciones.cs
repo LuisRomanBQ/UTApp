@@ -14,7 +14,7 @@ using UTApp.Forms.Estudiantes;
 
 namespace UTApp_POO
 {
-    public partial class MisAsignaciones : Form
+    public partial class misAsignaciones : Form
     {
         AsignacionControlador AsigControl = new AsignacionControlador();
         List<Asignacion> asignaciones = new List<Asignacion>();
@@ -22,7 +22,7 @@ namespace UTApp_POO
         List<Plataforma> plataformas = new List<Plataforma>();
         ClaseEstudianteID estudiante;
 
-        public MisAsignaciones(ClaseEstudianteID actual)
+        public misAsignaciones(ClaseEstudianteID actual)
         {
             InitializeComponent();
             asignaciones = AsigControl.ListarAsignaciones();

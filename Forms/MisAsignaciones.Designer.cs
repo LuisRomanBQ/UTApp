@@ -1,6 +1,6 @@
 ﻿namespace UTApp_POO
 {
-    partial class MisAsignaciones
+    partial class misAsignaciones
     {
         /// <summary>
         /// Required designer variable.

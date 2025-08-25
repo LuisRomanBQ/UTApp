@@ -69,7 +69,7 @@ namespace UTApp_POO
 
         private void btnAsignaciones_Click(object sender, EventArgs e)
         {
-            MisAsignaciones asignaciones = new MisAsignaciones(estudiante);
+            misAsignaciones asignaciones = new misAsignaciones(estudiante);
             asignaciones.Show();
             this.Hide();
         }

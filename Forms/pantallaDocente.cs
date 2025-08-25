@@ -16,5 +16,10 @@ namespace UTApp_POO
         {
             InitializeComponent();
         }
+
+        private void pbSettings_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

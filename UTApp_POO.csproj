@@ -81,105 +81,105 @@
     <Compile Include="Controladores\MateriaBLL.cs" />
     <Compile Include="Controladores\MateriaDAL.cs" />
     <Compile Include="Controladores\PlataformaControlador.cs" />
-    <Compile Include="iniciarSesion.cs">
+    <Compile Include="Forms\iniciarSesion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="iniciarSesion.Designer.cs">
+    <Compile Include="Forms\iniciarSesion.Designer.cs">
       <DependentUpon>iniciarSesion.cs</DependentUpon>
     </Compile>
-    <Compile Include="bienvenida.cs">
+    <Compile Include="Forms\bienvenida.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="bienvenida.Designer.cs">
+    <Compile Include="Forms\bienvenida.Designer.cs">
       <DependentUpon>bienvenida.cs</DependentUpon>
     </Compile>
-    <Compile Include="MisAsignaciones.cs">
+    <Compile Include="Forms\MisAsignaciones.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MisAsignaciones.Designer.cs">
+    <Compile Include="Forms\MisAsignaciones.Designer.cs">
       <DependentUpon>MisAsignaciones.cs</DependentUpon>
     </Compile>
-    <Compile Include="pantallaDocente.cs">
+    <Compile Include="Forms\pantallaDocente.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="pantallaDocente.Designer.cs">
+    <Compile Include="Forms\pantallaDocente.Designer.cs">
       <DependentUpon>pantallaDocente.cs</DependentUpon>
     </Compile>
-    <Compile Include="pantallaEstudiante.cs">
+    <Compile Include="Forms\pantallaEstudiante.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="pantallaEstudiante.Designer.cs">
+    <Compile Include="Forms\pantallaEstudiante.Designer.cs">
       <DependentUpon>pantallaEstudiante.cs</DependentUpon>
     </Compile>
-    <Compile Include="configEstudiante.cs">
+    <Compile Include="Forms\configEstudiante.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="configEstudiante.Designer.cs">
+    <Compile Include="Forms\configEstudiante.Designer.cs">
       <DependentUpon>configEstudiante.cs</DependentUpon>
     </Compile>
-    <Compile Include="editarNombreEstudiante.cs">
+    <Compile Include="Forms\editarNombreEstudiante.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="editarNombreEstudiante.Designer.cs">
+    <Compile Include="Forms\editarNombreEstudiante.Designer.cs">
       <DependentUpon>editarNombreEstudiante.cs</DependentUpon>
     </Compile>
-    <Compile Include="editarGrupoEstudiante.cs">
+    <Compile Include="Forms\editarGrupoEstudiante.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="editarGrupoEstudiante.Designer.cs">
+    <Compile Include="Forms\editarGrupoEstudiante.Designer.cs">
       <DependentUpon>editarGrupoEstudiante.cs</DependentUpon>
     </Compile>
-    <Compile Include="cambiarContraseña.cs">
+    <Compile Include="Forms\cambiarContraseña.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="cambiarContraseña.Designer.cs">
+    <Compile Include="Forms\cambiarContraseña.Designer.cs">
       <DependentUpon>cambiarContraseña.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="registroDocente.cs">
+    <Compile Include="Forms\registroDocente.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="registroDocente.Designer.cs">
+    <Compile Include="Forms\registroDocente.Designer.cs">
       <DependentUpon>registroDocente.cs</DependentUpon>
     </Compile>
-    <Compile Include="registroEstudiante.cs">
+    <Compile Include="Forms\registroEstudiante.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="registroEstudiante.Designer.cs">
+    <Compile Include="Forms\registroEstudiante.Designer.cs">
       <DependentUpon>registroEstudiante.cs</DependentUpon>
     </Compile>
-    <Compile Include="tipoUsuario.cs">
+    <Compile Include="Forms\tipoUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="tipoUsuario.Designer.cs">
+    <Compile Include="Forms\tipoUsuario.Designer.cs">
       <DependentUpon>tipoUsuario.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="iniciarSesion.resx">
+    <EmbeddedResource Include="Forms\iniciarSesion.resx">
       <DependentUpon>iniciarSesion.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="bienvenida.resx">
+    <EmbeddedResource Include="Forms\bienvenida.resx">
       <DependentUpon>bienvenida.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MisAsignaciones.resx">
+    <EmbeddedResource Include="Forms\MisAsignaciones.resx">
       <DependentUpon>MisAsignaciones.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="pantallaDocente.resx">
+    <EmbeddedResource Include="Forms\pantallaDocente.resx">
       <DependentUpon>pantallaDocente.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="pantallaEstudiante.resx">
+    <EmbeddedResource Include="Forms\pantallaEstudiante.resx">
       <DependentUpon>pantallaEstudiante.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="configEstudiante.resx">
+    <EmbeddedResource Include="Forms\configEstudiante.resx">
       <DependentUpon>configEstudiante.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="editarNombreEstudiante.resx">
+    <EmbeddedResource Include="Forms\editarNombreEstudiante.resx">
       <DependentUpon>editarNombreEstudiante.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="editarGrupoEstudiante.resx">
+    <EmbeddedResource Include="Forms\editarGrupoEstudiante.resx">
       <DependentUpon>editarGrupoEstudiante.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="cambiarContraseña.resx">
+    <EmbeddedResource Include="Forms\cambiarContraseña.resx">
       <DependentUpon>cambiarContraseña.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -192,13 +192,13 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="registroDocente.resx">
+    <EmbeddedResource Include="Forms\registroDocente.resx">
       <DependentUpon>registroDocente.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="registroEstudiante.resx">
+    <EmbeddedResource Include="Forms\registroEstudiante.resx">
       <DependentUpon>registroEstudiante.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="tipoUsuario.resx">
+    <EmbeddedResource Include="Forms\tipoUsuario.resx">
       <DependentUpon>tipoUsuario.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
